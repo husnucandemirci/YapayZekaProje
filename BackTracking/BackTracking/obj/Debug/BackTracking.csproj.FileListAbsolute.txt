@@ -1,0 +1,6 @@
+c:\users\husnucan\documents\visual studio 2012\Projects\BackTracking\BackTracking\bin\Debug\BackTracking.exe.config
+C:\Users\Husnucan\documents\visual studio 2012\Projects\BackTracking\BackTracking\bin\Debug\BackTracking.exe
+C:\Users\Husnucan\documents\visual studio 2012\Projects\BackTracking\BackTracking\bin\Debug\BackTracking.pdb
+C:\Users\Husnucan\documents\visual studio 2012\Projects\BackTracking\BackTracking\obj\Debug\BackTracking.csprojResolveAssemblyReference.cache
+C:\Users\Husnucan\documents\visual studio 2012\Projects\BackTracking\BackTracking\obj\Debug\BackTracking.exe
+C:\Users\Husnucan\documents\visual studio 2012\Projects\BackTracking\BackTracking\obj\Debug\BackTracking.pdb
